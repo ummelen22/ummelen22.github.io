@@ -25,19 +25,19 @@ const TeamSection = () => {
             {/* Testimonial */}
             <div className="bg-secondary rounded-2xl p-6 border-l-4 border-saffron">
               <blockquote className="font-serif text-xl italic text-foreground mb-4">
-                "Being a guide allows me to support my family while showing the world that Nepali women can do anything we set our minds to."
+              "Following the foodsteps of my grandfather, I became a guide which allows me to do what I love the most: being out in nature and showing people the beauty of Nepal. I started this company to allow other Nepali women to also follow this path, and show the world you can do anything you set your mind to!"
               </blockquote>
               <div className="flex items-center gap-3">
                 <div className="w-12 h-12 rounded-full overflow-hidden">
                   <img
                     src={guidePortrait}
-                    alt="Sunita Tamang"
+                    alt="Maya Pun"
                     className="w-full h-full object-cover"
                   />
                 </div>
                 <div>
-                  <p className="font-sans font-semibold text-foreground">Sunita Tamang</p>
-                  <p className="font-sans text-sm text-muted-foreground">Lead Guide, 8 years experience</p>
+                  <p className="font-sans font-semibold text-foreground">Maya Pun</p>
+                  <p className="font-sans text-sm text-muted-foreground">Founder and Lead Guide</p>
                 </div>
               </div>
             </div>

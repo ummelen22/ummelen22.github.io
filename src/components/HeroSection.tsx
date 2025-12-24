@@ -32,12 +32,16 @@ const HeroSection = () => {
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center animate-fade-up [animation-fill-mode:forwards] [animation-delay:800ms]">
-            <Button variant="hero" size="xl">
-              Explore Our Treks
-            </Button>
-            <Button variant="heroOutline" size="xl">
-              Our Story
-            </Button>
+            <a href="#treks">
+              <Button variant="hero" size="xl">
+                Explore Our Treks
+              </Button>
+            </a>
+            <a href="#about">
+              <Button variant="heroOutline" size="xl">
+                Our Story
+              </Button>
+            </a>
           </div>
         </div>
       </div>

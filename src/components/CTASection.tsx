@@ -55,18 +55,18 @@ const CTASection = () => {
                 className="flex items-center gap-3 text-primary-foreground/90 hover:text-primary-foreground transition-colors"
               >
                 <Mail className="w-5 h-5" />
-                <span className="font-sans">hello@daughtersofthehimalaya.com</span>
+                <span className="font-sans">info@daughtersofthehimalaya.com</span>
               </a>
               <a 
                 href="tel:+9771234567890" 
                 className="flex items-center gap-3 text-primary-foreground/90 hover:text-primary-foreground transition-colors"
               >
                 <Phone className="w-5 h-5" />
-                <span className="font-sans">+977 1 234 567 890</span>
+                <span className="font-sans">+977 0 000 000 000</span>
               </a>
               <div className="flex items-center gap-3 text-primary-foreground/90">
                 <MapPin className="w-5 h-5" />
-                <span className="font-sans">Thamel, Kathmandu, Nepal</span>
+                <span className="font-sans">Pokhara, Nepal</span>
               </div>
             </div>
 
